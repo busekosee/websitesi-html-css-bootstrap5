@@ -1,0 +1,83 @@
+@charset "utf-8";
+*{
+  font-family: 'Shantell Sans', cursive;
+
+}
+.navbar-collapse.anaMenu{
+  flex-grow:initial;
+}
+.logoFotograf{
+  width:180px;
+}
+.ustMenuAlani{
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+.servislerbaslik{
+  color: black;
+  margin-bottom:15px;
+}
+.anasayfaservisalani{
+  margin-top:15px;
+  margin-bottom: 15px;
+
+}
+.servislerbaslik{
+  color:black;
+  margin-bottom:15px;
+}
+.anasayfaservisalani{
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.sirketkücükyazi{
+  margin-bottom:20px;
+  font-size:14px;
+}
+.sagmenu{
+  margin-right: inherit;
+}
+.tumhaklarısaklıdıralanı{
+  margin-top: 40px;
+  border-top: 2px solid black;
+}
+.tumhaklarisaklidir{
+  padding:10px 0 10px 0;
+  text-align: center;
+  font-size: 10px;
+}
+.hakkimizdayazialani{
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.icsayfafotograf{
+  max-width: 350px;
+  max-height: 350px;
+  float:left;
+  margin:0 15px 15px 0;
+}
+.genelbaslik{
+  font-size:22px;
+  color: black;
+  margin-bottom: 20px;
+}
+.servisSatirlari{
+  margin-bottom: 25px;
+}
+.ozellinkalan{
+  text-decoration:none;
+  color:black;
+}
+.ozellinkalan:hover{
+  color:red;
+}
+.iletisimbilgileri{
+  margin-top: 20px;
+}
+.iletisimformu{
+  width: 20px;
+}
+.sagagit{
+  margin-right: 10px;
+}
